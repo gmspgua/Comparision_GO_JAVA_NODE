@@ -1,0 +1,3 @@
+1571096767514	Rename package 'com.telefonica.helloworld.java.demo'
+1571096887773	Rename package 'com.telefonica.helloworld.springboot.rest'
+1571097488864	Move 'Dockerfile' to 'helloworld-springboot'

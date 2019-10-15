@@ -1,0 +1,5 @@
+package com.telefonica.helloworld.springboot.controller;
+
+public class HelloWorld {
+
+}
